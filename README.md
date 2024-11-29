@@ -1,5 +1,6 @@
 <h1>PERSON FINDER</h1>
 
+With the help of techniques like CNN, this project tries to match faces of person.
 <img align="right" alt="GIF" height=280 src="https://image.freepik.com/free-vector/people-search-concept-illustration_114360-2656.jpg" />
 
 
